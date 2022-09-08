@@ -17,10 +17,4 @@ Here, the user enters the product specific requirements
 
 According to the user's requirements, our model returns the best billboards suited to the product!
 
-## Team Members:
 
-[Akshat Jain](https://github.com/Akshatt)
-
-Riya Bhoomkar
-
-Harsh Bhuta
